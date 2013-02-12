@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MArduino</string> 
+    <string name="select_device">Cerca device</string> 
+	<string name="none_found">Nessun device trovato</string> 
+	<string name="scanning">Scansione...</string> 
+	<string name="none_paired">Nessun dispositivo accoppiato</string> 
+	<string name="title_connected_to">Connesso a</string>
+	<string name="title_connecting">Connessione...</string> 
+	<string name="title_not_connected">Non connesso</string>
+	<string name="bt_not_enabled_leaving">Bluetooth non disponibile</string>
+	<string name="search">Cerca</string> 
+	<string name="direction">Direzione</string> 
+	<string name="movment">Movimento</string>
+	<string name="menu_connect">Conneti</string>
+	<string name="menu_info">Info</string>
+	<string name="not_supported">Bluetooth non supportato</string>
+	<string name="not_connect">Non connesso</string>
+	<string name="connect_failed">Connessione fallita</string>
+	<string name="connect_lost">Connessione scaduta</string>
+	<string name="stop">Fermo</string>
+	<string name="enable_bluetooth">Attiva Bluetooth</string>
+	<string name="forward">Avanti</string>
+	<string name="back">Indietro</string>
+	<string name="left">Sinistra</string>
+	<string name="right">Destra</string>
+	<string name="author">Autore: </string>
+	<string name="translator">Traduttore: Piso94</string>
+	<string name="info">Info: Programma che permette di comandare una macchina giocattolo con il bluetooth!</string>
+	
+	
+</resources>
